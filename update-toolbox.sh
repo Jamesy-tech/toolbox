@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "Updating Toolbox"
+echo "Updating Toolbox 🛠️"
 git pull origin main
-echo "Toolbox is up to date"
+echo "Toolbox is up to date ✅"
